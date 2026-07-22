@@ -65,7 +65,7 @@ footer{
 }
 
 ..logo-img {
-    width: 180px;   /* Try 150px, 180px, or 200px */
+    width: 120px;   /* Try 150px, 180px, or 200px */
     height: auto;
     display: block;
 }
