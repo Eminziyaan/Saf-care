@@ -64,8 +64,8 @@ footer{
     flex-wrap:wrap;
 }
 
-.logo-img{
-    width:100px;
-    height:auto;
-    display:block;
+..logo-img {
+    width: 180px;   /* Try 150px, 180px, or 200px */
+    height: auto;
+    display: block;
 }
